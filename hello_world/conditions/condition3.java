@@ -1,3 +1,4 @@
+package conditions;
 import java.util.*;
 
 public class condition3 {
