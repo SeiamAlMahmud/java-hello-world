@@ -9,7 +9,7 @@ public class inout {
         String name = sc.nextLine(); 
         // sc.nextInt()
         // sc.nextFloat()
-        
+
         System.out.println(name);
     }
 }
